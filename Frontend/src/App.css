@@ -1,0 +1,109 @@
+
+.App-header {
+  background-color: #3258a4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(25px);
+  color: white;
+  border-style: groove;
+  margin: auto;
+  border-width: 3px;
+  margin-bottom: 40px;
+
+  height: 100px;
+  width: 25%;
+ 
+}
+
+.Button {
+
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px);
+  color: rgb(0, 0, 0);
+  border-style: groove;
+  margin: auto;
+  border-width: 2px;
+  margin-bottom: 40px;
+  
+
+ 
+}
+
+.InputText {
+
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-style: groove;
+  margin: auto;
+  border-width: 5px;
+  margin-bottom: 20px;
+  
+}
+
+.todo {
+
+  background-color: #ffffff;
+  display: flex;
+  font-size: 16px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-style: groove;
+  margin: 0 auto;
+  border-width: 5px;
+  margin-bottom: 30px;
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+button {
+  border-radius: 4px;
+  background-color: #5ca1e1;
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0 auto;
+  position: static;
+  
+}
+
+button {
+  cursor: pointer;
+  display: flex;
+  position: relative;
+  transition: 0.5s;
+  
+}
+
+button:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;  
+  top: 14px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+button:hover{
+  padding-right: 24px;
+  padding-left:8px;
+}
+
+button:hover:after {
+  opacity: 1;
+  right: 10px;
+}

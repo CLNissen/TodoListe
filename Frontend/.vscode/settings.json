@@ -1,0 +1,7 @@
+{
+    "ConnectionStrings": {
+        "DB_CONNECTION_STRING": "Server=tcp:todoliste.database.windows.net,1433;Initial Catalog=TodoListe;Persist Security Info=False;User ID=CLNissen;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+    },
+    "appService.defaultWebAppToDeploy": "/subscriptions/6ad2fcbf-751a-409e-964f-8f174188ef72/AppServices/subscriptions/6ad2fcbf-751a-409e-964f-8f174188ef72/resourceGroups/TodolisteCLNissen/providers/Microsoft.Web/sites/TodolisteCLNissen",
+    "appService.deploySubpath": "."
+}

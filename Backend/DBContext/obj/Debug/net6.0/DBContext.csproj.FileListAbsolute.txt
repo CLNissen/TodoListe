@@ -1,0 +1,28 @@
+/Users/clnissen/Desktop/todo source/DBContext/bin/Debug/net6.0/DBContext.deps.json
+/Users/clnissen/Desktop/todo source/DBContext/bin/Debug/net6.0/DBContext.dll
+/Users/clnissen/Desktop/todo source/DBContext/bin/Debug/net6.0/DBContext.pdb
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.csproj.AssemblyReference.cache
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.AssemblyInfoInputs.cache
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.AssemblyInfo.cs
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.csproj.CoreCompileInputs.cache
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.dll
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/refint/DBContext.dll
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.pdb
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/ref/DBContext.dll
+/Users/clnissen/Desktop/todo source/DBContext/bin/Debug/net6.0/DBContext.runtimeconfig.json
+/Users/clnissen/Desktop/todo source/DBContext/obj/Debug/net6.0/DBContext.genruntimeconfig.cache
+/Users/clnissen/Desktop/todosource/DBContext/bin/Debug/net6.0/DBContext.deps.json
+/Users/clnissen/Desktop/todosource/DBContext/bin/Debug/net6.0/DBContext.runtimeconfig.json
+/Users/clnissen/Desktop/todosource/DBContext/bin/Debug/net6.0/DBContext.dll
+/Users/clnissen/Desktop/todosource/DBContext/bin/Debug/net6.0/DBContext.pdb
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.csproj.AssemblyReference.cache
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.AssemblyInfoInputs.cache
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.AssemblyInfo.cs
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.csproj.CoreCompileInputs.cache
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.dll
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/refint/DBContext.dll
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.pdb
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/DBContext.genruntimeconfig.cache
+/Users/clnissen/Desktop/todosource/DBContext/obj/Debug/net6.0/ref/DBContext.dll

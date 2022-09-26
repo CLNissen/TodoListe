@@ -1,0 +1,157 @@
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/appsettings.json
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/todobackend
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/todobackend.deps.json
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/todobackend.runtimeconfig.json
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/todobackend.dll
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/todobackend.pdb
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/clnissen/Desktop/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.csproj.AssemblyReference.cache
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.AssemblyInfoInputs.cache
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.AssemblyInfo.cs
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.csproj.CoreCompileInputs.cache
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/scopedcss/bundle/todobackend.styles.css
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.csproj.CopyComplete
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.dll
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/refint/todobackend.dll
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.pdb
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/todobackend.genruntimeconfig.cache
+/Users/clnissen/Desktop/todobackend/obj/Debug/net6.0/ref/todobackend.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/appsettings.json
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/todobackend
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/todobackend.deps.json
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/todobackend.runtimeconfig.json
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/todobackend.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/todobackend.pdb
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.csproj.AssemblyReference.cache
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.AssemblyInfoInputs.cache
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.AssemblyInfo.cs
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.csproj.CoreCompileInputs.cache
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/scopedcss/bundle/todobackend.styles.css
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.csproj.CopyComplete
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.dll
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/refint/todobackend.dll
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.pdb
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/todobackend.genruntimeconfig.cache
+/Users/clnissen/Desktop/todo source/todobackend/obj/Debug/net6.0/ref/todobackend.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Humanizer.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/dotnet-ef.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/DBContext.dll
+/Users/clnissen/Desktop/todo source/todobackend/bin/Debug/net6.0/DBContext.pdb
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/appsettings.json
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/todobackend
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/todobackend.deps.json
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/todobackend.runtimeconfig.json
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/todobackend.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/todobackend.pdb
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Humanizer.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/dotnet-ef.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/DBContext.dll
+/Users/clnissen/Desktop/todosource/todobackend/bin/Debug/net6.0/DBContext.pdb
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.csproj.AssemblyReference.cache
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.AssemblyInfoInputs.cache
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.AssemblyInfo.cs
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.csproj.CoreCompileInputs.cache
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/scopedcss/bundle/todobackend.styles.css
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.csproj.CopyComplete
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.dll
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/refint/todobackend.dll
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.pdb
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/todobackend.genruntimeconfig.cache
+/Users/clnissen/Desktop/todosource/todobackend/obj/Debug/net6.0/ref/todobackend.dll
